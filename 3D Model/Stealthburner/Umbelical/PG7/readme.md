@@ -1,0 +1,1 @@
+Different thread exists for PG7 connectors, Choose the one that fits your part.
